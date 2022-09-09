@@ -1,3 +1,5 @@
+@import url(//fonts.googleapis.com/css?family=Yusei+Magic);
+
 body {
   margin: 0;
   padding: 0;
@@ -29,10 +31,9 @@ body {
   color:rgb(25, 255, 171);
 }
 
-h3 {
-  color:rgba(25, 255, 171, 0.484);
+.subtitleJ {
+  font-size: 1.5em;
 }
-
 
 .nav-link {
   color:rgb(204, 27, 214);
