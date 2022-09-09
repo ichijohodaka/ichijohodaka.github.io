@@ -21,13 +21,13 @@ body {
 }
 
 .titleJ {
-  font-size: 2.3em;
+  font-size: 2.1em;
   font-family: Yusei Magic;
   color:rgb(25, 255, 171);
 }
 
 .titleE {
-  font-size: 1.5em;
+  font-size: 1.4em;
   font-family: Yusei Magic;
   color:rgb(25, 255, 171);
 }
@@ -37,11 +37,12 @@ body {
 }
 
 .subtitleE {
-  font-size: 0.7em;
+  font-size: 0.68em;
 }
 
 .nav-link {
   color:rgba(138, 220, 38, 0.832);
+  font-size: 0.9em;
 }
 
 .nav-item > a:hover {
