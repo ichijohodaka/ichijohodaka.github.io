@@ -3,7 +3,7 @@
 body {
   margin: 0;
   padding: 0;
-  color: #f8f8f8;
+  color: #f7f4d6;
 }
 
 
@@ -20,23 +20,27 @@ body {
 }
 
 .titleJ {
-  font-size: 3em;
+  font-size: 2.3em;
   font-family: Yusei Magic;
   color:rgb(25, 255, 171);
 }
 
 .titleE {
-  font-size: 3em;
+  font-size: 1.8em;
   font-family: Yusei Magic;
   color:rgb(25, 255, 171);
 }
 
 .subtitleJ {
-  font-size: 1.5em;
+  font-size: 0.9em;
+}
+
+.subtitleE {
+  font-size: 0.9em;
 }
 
 .nav-link {
-  color:rgb(204, 27, 214);
+  color:rgba(138, 220, 38, 0.832);
 }
 
 .nav-item > a:hover {
