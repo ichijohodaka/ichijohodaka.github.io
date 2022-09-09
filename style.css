@@ -9,10 +9,11 @@ body {
 
 .container1{
   display: flex;
-
+  padding: 2em 0;
 }
 
 .container2{
+  padding: 2em 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,7 +27,7 @@ body {
 }
 
 .titleE {
-  font-size: 1.8em;
+  font-size: 1.5em;
   font-family: Yusei Magic;
   color:rgb(25, 255, 171);
 }
@@ -36,7 +37,7 @@ body {
 }
 
 .subtitleE {
-  font-size: 0.9em;
+  font-size: 0.7em;
 }
 
 .nav-link {
