@@ -7,15 +7,25 @@ body {
 
 .container1{
   display: flex;
-  
+
 }
 
 .container2{
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-h1 {
+.titleJ {
+  font-size: 3em;
+  font-family: Yusei Magic;
+  color:rgb(25, 255, 171);
+}
+
+.titleE {
+  font-size: 3em;
+  font-family: Yusei Magic;
   color:rgb(25, 255, 171);
 }
 
